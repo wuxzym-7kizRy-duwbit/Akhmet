@@ -7,15 +7,15 @@
 - **Статус**: Студент, 4 курс
 - **Электрондық пошта**: [ahmet@example.com](mailto:ahmet@example.com)
 - **Телефон**: +7 (XXX) XXX-XX-XX
-- **LinkedIn**: [linkedin.com/in/ahmet-bekpaganbetov](https://linkedin.com/in/ahmet-bekpaganbetov) (Егер бар болса)
+- **LinkedIn**: [linkedin.com/in/ahmet-bekpaganbetov](https://linkedin.com/in/ahmet-bekpaganbetov) 
 
 ---
 
 ## Білім
 
-- **[Университеттің атауы]**, [Қала]  
+- **[Қ.Жұбанов атындағы Ақтөбе өңірлік мемлекеттік университеті]**, [Ақтөбе]  
   *Студент, 4 курс*  
-  Мамандығы: [Мамандығыңыз]  
+  Мамандығы: [IT-Медицина]  
   Күтілетін диплом: 2025
 
 ---
