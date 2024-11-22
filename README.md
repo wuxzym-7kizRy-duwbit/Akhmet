@@ -6,7 +6,7 @@
 - **Жасы**: 20 жас
 - **Статус**: Студент, 4 курс
 - **Электрондық пошта**: [ahmet@example.com](mailto:ahmet@example.com)
-- **Телефон**: +7 (XXX) XXX-XX-XX
+- **Телефон**: +7 (707) 288-57-79
 - **LinkedIn**: [linkedin.com/in/ahmet-bekpaganbetov](https://linkedin.com/in/ahmet-bekpaganbetov) 
 
 ---
